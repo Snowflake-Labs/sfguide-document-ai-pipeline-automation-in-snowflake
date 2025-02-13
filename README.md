@@ -20,9 +20,7 @@ The architecture consists of multiple components working together to efficiently
 
 This automated pipeline enhances efficiency, reduces manual workload, and ensures accurate and scalable document processing within **Snowflake**. 🚀  
 
-![Architecture Diagram](./Arc_DocAI.png)
 
-![Architecture Diagram](./Streamlit.png)
 
 # Steps to Replicate the Setup
 
